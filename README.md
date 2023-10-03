@@ -1,2 +1,1 @@
-# Native-AWS-CICD-Project
-Native-AWS-CICD-Project
+# AWS Native CI/CD Pipeline Project
